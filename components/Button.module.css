@@ -1,0 +1,15 @@
+.accent_button {
+    background-color: #5856D6;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    width: 8vw;
+}
+
+.tab_button {
+    background-color: transparent;
+    border: none;
+    border-radius: 8px;
+    height: 40px;
+    width: 190px;
+}

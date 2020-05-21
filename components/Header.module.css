@@ -1,0 +1,16 @@
+.header_bar {
+    display: grid;
+    grid-template-columns: 7fr 1fr;
+}
+
+.horizontal_list {
+    list-style-type: none;
+}
+
+.horizontal_list_item {
+    display: inline;
+}
+
+.list_icon {
+    padding: 10px;
+}

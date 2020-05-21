@@ -1,0 +1,20 @@
+.tab_bar_list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: -3vw;
+}
+
+.tab_item {
+    display: inline;
+    background-color: rgb(250, 192, 60, 0.75);
+    margin-right: 7px;
+    border-radius: 8px;
+}
+
+.tab_item_active {
+    background-color: #FAC03C;
+    display: inline;
+    margin-right: 7px;
+    border-radius: 8px;
+}
